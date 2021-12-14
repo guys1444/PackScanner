@@ -1,0 +1,14 @@
+{
+  "localorserver": true,
+  "email": "g@g.com",
+  "Select languages": [
+    "Python",
+    "Javascript",
+    "PHP",
+    "Java"
+  ],
+  "quantity": 20,
+  "toppings": "alldressed",
+  "beverage": "7up",
+  "comments": "Nope, all good!"
+}
